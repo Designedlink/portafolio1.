@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: justify-all;
+    color:aliceblue;
+}
+
+header{
+    width: 1000%;
+    height: 80px;
+    background-color:#6BBDC2;
+}
+
+section{
+    width: 1000px;
+    height: auto;
+    margin: 30px auto; 
+}
+
+footer{
+    width: 1000%;
+    height: 130px;
+    background-color:#F26457;
+}
+
+.TITULO{
+    font-family: cursive;
+    font-size:30px;
+    height: 60px;
+    text-align: center;
+}
+
+p{
+    font-family:sans-serif;
+    font-size: 19px;
+}
+
+.titulo{
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    background-color:#00A8C2;
+    color:aliceblue;
+}
+
+td{
+    font-family:sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 25px;
+}
+
+h2{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 23px;
+    height: 50px;
+    color:#1BF2CB;
+}
+
+li{
+    font-family: sans-serif;
+    font-size: 19px;
+}
+
+.li{
+    Font-size:10px
+    color:darkslategray;
+    font-family: sans-serif;
+    list-style: none;
+    
+}
+
+.h2{
+    font-size: 1.3em;
+    margin-top: 1em;
+}
+
+.p{
+    font-size: 1.2em;
+}
+
+.sub_lista{
+    margin: 10px 0px 0px 20px;
+}
+
+.sub_lista li{
+    margin: 10px 0px 0px 20px;
+}
+
+.p_head{
+    font-family: sans-serif;
+    font-size: 23px;
+    color:#01F598;
+}
+
+.p_body{
+    font-family: sans-serif;
+    font-size: 23px;
+    color:#01F598;
+}
+
+body{
+    background-color: snow;
+    background-image: url(file:///C:/Users/usuario/Pictures/anime-desktop-nawpic.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.M{
+     font-family: cursive;
+    font-size: 40px;
+    height: 50px;
+}
+
+img{
+   
+    height: 65px;
+}
+
